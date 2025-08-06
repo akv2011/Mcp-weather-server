@@ -1,0 +1,9 @@
+[project]
+name = "weather-mcp-server"
+version = "0.1.0"
+description = "MCP Weather Server"
+dependencies = [
+    "mcp>=1.2.0",
+    "httpx>=0.24.0",
+]
+requires-python = ">=3.10"

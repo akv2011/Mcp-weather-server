@@ -46,3 +46,20 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Puch Server specific
+# Don't commit actual resume files (users should add their own)
+resume.pdf
+resume.docx
+resume.txt
+cv.pdf
+cv.docx
+cv.txt
+my_resume.*
+my_cv.*
+
+# Don't commit configured server with real tokens
+puch_server_configured.py
+
+# Environment files
+.env.puch

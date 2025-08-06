@@ -1,4 +1,4 @@
-# Puch AI Clone - MCP Server Collection
+MCP Server Collection
 
 A collection of Model Context Protocol (MCP) servers for extending AI assistant capabilities.
 
